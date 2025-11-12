@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/1.Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/1.Scenes/Main.unity
+    path: Assets/1.Scenes/MovingPlayer.unity
     guid: fef9780efe756be4da912a33f9a38511
   m_configObjects: {}
